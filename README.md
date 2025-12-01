@@ -49,5 +49,5 @@ Project ini menggunakan file `secrets.py` untuk keamanan. Buat file baru bernama
 
 ```python
 # secrets.py
-SSID = "Nama_WiFi_Anda"
-PASSWORD = "Password_WiFi_Anda"
+SSID = "Nama_WiFi"
+PASSWORD = "Password_WiFi"
