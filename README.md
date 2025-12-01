@@ -35,7 +35,6 @@ Project ini menggunakan komponen berikut:
 | **LED Putih** | D7 (GPIO 13) | Output |
 | **Sensor LDR** | A0 (ADC 0) | Input Analog |
 
-![Wiring Diagram](https://via.placeholder.com/600x300?text=Foto+Rangkaian+Alat)
 
 ## 🚀 Cara Instalasi
 
