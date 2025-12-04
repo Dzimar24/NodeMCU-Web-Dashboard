@@ -14,17 +14,15 @@ Project ini dibuat sebagai implementasi protokol **HTTP Web Server** menggunakan
 
 ## ✨ Fitur Utama
 * 📡 **Web Server Lokal:** Dashboard kontrol yang di-hosting langsung di dalam chip ESP8266.
-* ☀️ **Monitoring Sensor:** Membaca nilai sensor LDR (Cahaya) secara real-time.
 * 💡 **Remote Control:** Menyalakan/Mematikan 3 buah LED via browser HP/Laptop.
 * 🔄 **Auto Refresh:** Tombol refresh untuk mengambil data sensor terbaru tanpa reload halaman.
 
 ## 🛠️ Komponen Hardware
 Project ini menggunakan komponen berikut:
 1.  **NodeMCU ESP8266**.
-2.  **Sensor LDR** (Light Dependent Resistor) + Resistor 10k Ohm (Voltage Divider).
-3.  **3x LED** (Merah, Kuning, Putih).
-4.  **3x Resistor 330 Ohm** (Untuk pengaman LED).
-5.  Kabel Jumper Male to Male & Breadboard.
+2.  **3x LED** (Merah, Kuning, Hijau).
+3.  **3x Resistor 330 Ohm** (Untuk pengaman LED).
+4.  Kabel Jumper Male to Male & Breadboard.
 
 ## 🔌 Skema Rangkaian (Wiring)
 
@@ -38,7 +36,7 @@ Berikut adalah diagram koneksi antar komponen yang dibuat menggunakan Fritzing:
 | :--- | :--- | :--- |
 | **LED Merah** | D5 (GPIO 14) | Output |
 | **LED Kuning** | D6 (GPIO 12) | Output |
-| **LED Putih** | D7 (GPIO 13) | Output |
+| **LED Hijau** | D7 (GPIO 13) | Output |
 | **Sensor LDR** | A0 (ADC 0) | Input Analog |
 
 
