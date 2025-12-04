@@ -10,7 +10,7 @@ Project ini dibuat sebagai implementasi protokol **HTTP Web Server** menggunakan
 
 ## 📸 Tampilan Dashboard (Demo)
 
-![Web Dashboard Screenshot](https://via.placeholder.com/600x300?text=Upload+Foto+Dashboard+Web+Disini)
+![Web Dashboard Screenshot](https://github.com/Dzimar24/NodeMCU-Web-Dashboard/blob/main/Screenshot%202025-12-04%20231808.png)
 
 ## ✨ Fitur Utama
 * 📡 **Web Server Lokal:** Dashboard kontrol yang di-hosting langsung di dalam chip ESP8266.
