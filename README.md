@@ -4,7 +4,7 @@
 ![Device](https://img.shields.io/badge/Device-ESP8266-red.svg)
 ![Status](https://img.shields.io/badge/Status-Active-success.svg)
 
-**NodeMCU IoT Web Monitor** adalah sistem monitoring lingkungan sederhana berbasis Internet of Things (IoT). Project ini memungkinkan pengguna untuk memantau intensitas cahaya ruangan secara real-time dan mengontrol lampu (LED) melalui Dashboard Web Lokal tanpa memerlukan koneksi internet eksternal.
+**NodeMCU IoT Web Monitor** adalah sistem monitoring lingkungan sederhana berbasis Internet of Things (IoT). Project ini memungkinkan pengguna untuk mengontrol lampu (LED) melalui Dashboard Web Lokal tanpa memerlukan koneksi internet eksternal.
 
 Project ini dibuat sebagai implementasi protokol **HTTP Web Server** menggunakan socket programming pada microcontroller.
 
@@ -37,7 +37,6 @@ Berikut adalah diagram koneksi antar komponen yang dibuat menggunakan Fritzing:
 | **LED Merah** | D5 (GPIO 14) | Output |
 | **LED Kuning** | D6 (GPIO 12) | Output |
 | **LED Hijau** | D7 (GPIO 13) | Output |
-| **Sensor LDR** | A0 (ADC 0) | Input Analog |
 
 
 ## 🚀 Cara Instalasi
