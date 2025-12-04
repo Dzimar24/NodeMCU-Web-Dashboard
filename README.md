@@ -10,7 +10,7 @@ Project ini dibuat sebagai implementasi protokol **HTTP Web Server** menggunakan
 
 ## 📸 Tampilan Dashboard (Demo)
 
-![Web Dashboard Screenshot](https://github.com/Dzimar24/NodeMCU-Web-Dashboard/blob/main/Screenshot%202025-12-04%20231808.png)
+![Web Dashboard Screenshot](https://github.com/Dzimar24/NodeMCU-Web-Dashboard/blob/main/Screenshot%202025-12-04%20231808.png?raw=true)
 
 ## ✨ Fitur Utama
 * 📡 **Web Server Lokal:** Dashboard kontrol yang di-hosting langsung di dalam chip ESP8266.
@@ -27,6 +27,12 @@ Project ini menggunakan komponen berikut:
 5.  Kabel Jumper Male to Male & Breadboard.
 
 ## 🔌 Skema Rangkaian (Wiring)
+
+Berikut adalah diagram koneksi antar komponen yang dibuat menggunakan Fritzing:
+
+![Skema Rangkaian Fritzing](https://github.com/Dzimar24/NodeMCU-Web-Dashboard/blob/main/webServer_bb.jpg?raw=true)
+
+**Detail Pin Mapping:**
 
 | Komponen | Pin NodeMCU | Keterangan |
 | :--- | :--- | :--- |
